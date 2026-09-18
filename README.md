@@ -1,5 +1,3 @@
-# AAI-590_Capstone_Project
-
 ## Automated Pulsar Candidate Classification
 This project implements a supervised machine-learning pipeline to classify pulsar candidates using the HTRU2 dataset. The objective is to distinguish true radio pulsars from noise using statistical features derived from radio survey data. The system simulates automated candidate triage in large-scale astronomical surveys.
 
